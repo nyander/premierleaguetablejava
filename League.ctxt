@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=League()
+comment0.text=\r\n\ @param\ args\ the\ command\ line\ arguments\r\n
+comment1.params=teamInput
+comment1.target=Team\ createTeam(java.lang.String)
+comment2.params=matchInput
+comment2.target=Match\ createMatch(java.lang.String)
+comment3.params=
+comment3.target=java.util.List\ getTeams()
+comment4.params=teamName
+comment4.target=Team\ getTeam(java.lang.String)
+comment5.params=
+comment5.target=void\ printLeague()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
